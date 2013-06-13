@@ -1,0 +1,37 @@
+{
+  "name": "fenwick-tree",
+  "version": "0.0.0",
+  "description": "Compute prefix sums of arrays in O(log n)",
+  "main": "fenwick.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/fenwick-tree.git"
+  },
+  "keywords": [
+    "fenwick",
+    "tree",
+    "partial",
+    "sum",
+    "prefix",
+    "sum",
+    "count"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "507969a6172ed39b18d9eee4514f7fa46ff8a90e",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/fenwick-tree/issues"
+  }
+}
